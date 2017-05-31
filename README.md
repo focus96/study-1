@@ -5,3 +5,6 @@
  - создан репозиторий study (у меня dmitrybubyakin/study)
 
 Первый урок - composer, создаем папку lessons/composer, в ней выполянем `git init` и пушим все к себе в репозиторий.
+
+## Уроки
+ - [Composer](https://github.com/dmitrybubyakin/study/tree/master/lessons/composer)
